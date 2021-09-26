@@ -1,8 +1,9 @@
 [package]
-name = "g_collections_enums"
+name = "collections_enums"
 version = "0.1.0"
-authors = ["Nathan Stocks <nathan.stocks@gmail.com>"]
 edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 rand = "0.6.5"
